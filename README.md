@@ -1,27 +1,20 @@
 ### Бонжур! 👋
 
 Я русский прогер на JS! Уже не тупой, но ещё не умный)
-- 😅 Умею создавать ботов для discord.
+- 😅 Умею создавать ботов для discord и вк.
 - 🔭 Сейчас я работаю над ботом по имени Eclipse.
 - 🌱 Изучаю Node.js
 - 🖌️ Неожиданно, но я умею **немного** рисовать.
-- ⚡ Моя цитата: Программисту невозможно развиваться в одиночку.
 
 Как со мной связаться?
 - Discord: `[ElectroPlayer]#0256`, [сервер в discord](https://discord.gg/6k8Kxhv)
 - E-mail: `vitaly.hawanski@yandex.ru`
 
-<!--
-**Elektroplayer/Elektroplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <table>
+  <tr>
+      <td><a href="https://github.com/Elektroplayer"><img width="510px" align="left" src="https://github-readme-stats.vercel.app/api?username=Elektroplayer&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+      <td><a href="https://github.com/Elektroplayer"><img width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elektroplayer&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117"/></td>
+  </tr>   
+  </table>
+</p>
